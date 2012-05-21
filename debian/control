@@ -1,0 +1,13 @@
+Source: shepherd
+Section: unknown
+Priority: extra
+Maintainer: Brett Gailey <brett.gailey@dreamhost.com>
+Build-Depends: debhelper (>= 7.0.50~), rubygems (>= 0)
+Standards-Version: 3.8.4
+Homepage: http://resilientops.com
+Vcs-Git: git://github.com/dnbert/shepherd.git
+
+Package: shepherd
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, libgit-repository-perl, libnet-openssh-perl, libfile-path-perl, libfile-rsync-perl, libparallel-forkmanager-perl, rubygems
+Description: Perl Deployment Utility & FPM
