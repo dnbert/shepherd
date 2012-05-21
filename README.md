@@ -39,4 +39,4 @@ I still have a lot of work to do on this. Here are a few things I want in the fu
 Contact!
 =======
 
-If you have any comments, questions or concerns please contact me. I'm really open to hearing other peoples ideas about what they would like to see. I also accept pull requests (as long as they are sane!)
+If you have any comments, questions or concerns please contact me. This is designed to be used in part with Jenkins/Hudson to schedule new clones, if you happen to use this in another way, please drop me a line as I'd like to add more support for use cases. Pull requests are encouraged. 
